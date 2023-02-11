@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/Why3005/Sinner-Hub/raw/main/check.lua",true))()
+loadstring(game:HttpGet("https://github.com/Sxm-0/Sxm-Z/raw/main/check.lua",true))()
